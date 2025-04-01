@@ -1,6 +1,5 @@
 # DeadRailsNebXyZ
 
 ```
-local src = game:HttpGet("https://raw.githubusercontent.com/Nebula-xyzs/DeadRailsNebXyZ/main/NebulaHub.txt", true)  
-if src then loadstring(src)() end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebula-xyzs/DeadRailsNebXyZ/refs/heads/main/DeadRailsNeb.txt"))()
 ```
